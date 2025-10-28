@@ -14,12 +14,12 @@
         "universityName": "Dhaka University",
         "logo": "https://i.postimg.cc/DwCj8PcC/Dhaka-University-logo-svg.png",
         "varsityType": "Public",
-        "applicationLink": "https://example.com/apply/du",
-        "applicationStart": "2025-10-01",
-        "applicationEnd": "2025-11-15",
-        "admitCardDate": "2025-12-01",
-        "examDate": "2025-12-10",
-        "circularLink": "https://example.com/circulars/du.pdf"
+        "applicationLink": "https://admission.eis.du.ac.bd/",
+        "applicationStart": "2025-10-29",
+        "applicationEnd": "2025-11-16",
+        "admitCardDate": "2025-11-24",
+        "examDate": "2025-12-20",
+        "circularLink": "https://admission.eis.du.ac.bd/"
       },
       {
         "universityName": "BUET",
