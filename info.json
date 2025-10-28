@@ -22,14 +22,25 @@
         "circularLink": "https://admission.eis.du.ac.bd/"
       },
       {
-        "universityName": "BUET",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/800px-BUET_LOGO.svg.png",
+        "universityName": "BUTEX",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_University_of_Textiles_logo.svg/800px-Bangladesh_University_of_Textiles_logo.svg.png",
         "varsityType": "Engineering",
-        "applicationLink": "https://www.buet.ac.bd/web//#/ugAdmission/1",
-        "applicationStart": "2025-11-16",
-        "applicationEnd": "2025-12-02",
+        "applicationLink": "https://www.butex.edu.bd/undergraduate-programs/",
+        "applicationStart": "-",
+        "applicationEnd": "-",
         "admitCardDate": "-",
-        "examDate": "2026-01-10",
-        "circularLink": "https://drive.google.com/file/d/1gpIpuwdBTC60htzSzOi49doogpPCXBE_/view"
+        "examDate": "2026-01-9",
+        "circularLink": "https://www.butex.edu.bd/undergraduate-programs/"
+      },
+     {
+        "universityName": "Maritime University",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Logo_of_Bangladesh_Maritime_University.png",
+        "varsityType": "Public",
+        "applicationLink": "https://applyonline.bmu.edu.bd/Admission/Home",
+        "applicationStart": "2025-10-28",
+        "applicationEnd": "2025-11-27",
+        "admitCardDate": "-",
+        "examDate": "-",
+        "circularLink": "https://bmu.edu.bd/public/files/notices/68f9fd84093d62025-26%20Undergraduate%20Admission%20Notice%20.pdf"
       }
     ]
