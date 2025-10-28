@@ -1,10 +1,20 @@
     [
+        {
+        "universityName": "BUET",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/800px-BUET_LOGO.svg.png",
+        "varsityType": "Engineering",
+        "applicationLink": "https://www.buet.ac.bd/web//#/ugAdmission/1",
+        "applicationStart": "2025-11-16",
+        "applicationEnd": "2025-12-02",
+        "admitCardDate": "-",
+        "examDate": "2026-01-10",
+        "circularLink": "https://drive.google.com/file/d/1gpIpuwdBTC60htzSzOi49doogpPCXBE_/view"
+      },
       {
         "universityName": "Dhaka University",
         "logo": "https://i.postimg.cc/DwCj8PcC/Dhaka-University-logo-svg.png",
         "varsityType": "Public",
         "applicationLink": "https://example.com/apply/du",
-        "applicationStatus": "Started",
         "applicationStart": "2025-10-01",
         "applicationEnd": "2025-11-15",
         "admitCardDate": "2025-12-01",
@@ -16,7 +26,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/800px-BUET_LOGO.svg.png",
         "varsityType": "Engineering",
         "applicationLink": "https://www.buet.ac.bd/web//#/ugAdmission/1",
-        "applicationStatus": "Not Started",
         "applicationStart": "2025-11-16",
         "applicationEnd": "2025-12-02",
         "admitCardDate": "-",
