@@ -1,0 +1,26 @@
+    [
+      {
+        "universityName": "Dhaka University",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/37/University_of_Dhaka_logo.png",
+        "varsityType": "Public",
+        "applicationLink": "https://example.com/apply/du",
+        "applicationStatus": "Started",
+        "applicationStart": "2025-10-01",
+        "applicationEnd": "2025-11-15",
+        "admitCardDate": "2025-12-01",
+        "examDate": "2025-12-10",
+        "circularLink": "https://example.com/circulars/du.pdf"
+      },
+      {
+        "universityName": "North South University",
+        "logo": "https://www.northsouth.edu/assets/images/logo.png",
+        "varsityType": "Private",
+        "applicationLink": "https://example.com/apply/nsu",
+        "applicationStatus": "Not Started",
+        "applicationStart": "2025-11-20",
+        "applicationEnd": "2026-01-05",
+        "admitCardDate": "2026-01-20",
+        "examDate": "2026-01-25",
+        "circularLink": "https://example.com/circulars/nsu.pdf"
+      }
+    ]
