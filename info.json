@@ -12,15 +12,15 @@
         "circularLink": "https://example.com/circulars/du.pdf"
       },
       {
-        "universityName": "North South University",
-        "logo": "https://www.northsouth.edu/assets/images/logo.png",
-        "varsityType": "Private",
-        "applicationLink": "https://example.com/apply/nsu",
+        "universityName": "BUET",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/800px-BUET_LOGO.svg.png",
+        "varsityType": "Engineering",
+        "applicationLink": "https://www.buet.ac.bd/web//#/ugAdmission/1",
         "applicationStatus": "Not Started",
-        "applicationStart": "2025-11-20",
-        "applicationEnd": "2026-01-05",
-        "admitCardDate": "2026-01-20",
-        "examDate": "2026-01-25",
-        "circularLink": "https://example.com/circulars/nsu.pdf"
+        "applicationStart": "2025-11-16",
+        "applicationEnd": "2025-12-02",
+        "admitCardDate": "-",
+        "examDate": "2026-01-10",
+        "circularLink": "https://drive.google.com/file/d/1gpIpuwdBTC60htzSzOi49doogpPCXBE_/view"
       }
     ]
