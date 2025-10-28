@@ -42,5 +42,17 @@
         "admitCardDate": "-",
         "examDate": "-",
         "circularLink": "https://bmu.edu.bd/public/files/notices/68f9fd84093d62025-26%20Undergraduate%20Admission%20Notice%20.pdf"
+      },
+     {
+        "universityName": "MIST",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Military_Institute_of_Science_and_Technology_Monogram.svg/800px-Military_Institute_of_Science_and_Technology_Monogram.svg.png",
+        "varsityType": "Engineering",
+        "applicationLink": "https://mist.ac.bd/page/admission1",
+        "applicationStart": "2025-11-02",
+        "applicationEnd": "2025-11-26",
+        "admitCardDate": "2025-11-24",
+        "examDate": "2025-12-27",
+        "circularLink": "https://mist.ac.bd/storage/files/MIST%20Admission%20Notice-2026.pdf"
       }
+        
     ]
